@@ -12,7 +12,7 @@ assignees: ''
 
 | Project | Repo URL | Organization |Team Memeber Name | GITHUB USER ID |Access Level | Remarks |
 |--|--|--|--|--|--|--|
-| CORE | Repo URL | CazeLabs/IISc/IITD/C-DAC/XXX | xxx | xxx | Read/Write/Maintain | xxx |
+| CORE/RAN Dist/RAN Unified/ SMO | Repo URL | CazeLabs/IISc/IITD/C-DAC/XXX | xxx | xxx | Read/Write/Maintain | xxx |
 
 
 <!--  Thank you for using the template and helping us to track every request
